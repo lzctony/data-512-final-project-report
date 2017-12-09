@@ -8,13 +8,15 @@ Click [Kaggle ML and Data Science Survey, 2017](https://www.kaggle.com/kaggle/ka
 There are two data files I am going to use for this project.
 
 #### Data
-* multipleChoiceResponses.csv
+* [multipleChoiceResponses.csv](https://github.com/lzctony/data-512-final-project-report/blob/master/multipleChoiceResponses.csv)
 	- Number of rows: 16716, each row contains all the ansswers from the multiple choice questions by a respondent
 	- Number of columns: 228, each column is an answer for a multiple choice question
 
-* conversionRates.csv
-	- Number of rows: 86, each row contains the country code and the corresponding exchange rate to US dollar
-	- Number of columns: 2, column 1 is the country code while column 2 is the exchange rate to US dollar
+* [conversionRates.csv](https://github.com/lzctony/data-512-final-project-report/blob/master/conversionRates.csv)
+	- Number of rows: 86, each row contains a country code and a corresponding currency conversion rate to US dollar
+	- Number of columns: 2, column 1 is the country code while column 2 is the currency conversion rate to US dollar
+
+You can also download the full dataset by clicking [here](https://www.kaggle.com/kaggle/kaggle-survey-2017/data)
 
 #### License
 The dataset has an open database license.
