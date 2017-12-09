@@ -7,6 +7,7 @@ Click [Kaggle ML and Data Science Survey, 2017](https://www.kaggle.com/kaggle/ka
 ## License of The Source Data
 There are two data files I am going to use for this project.
 
+#### Data
 * multipleChoiceResponses.csv
 	- Number of rows: 16716, each row contains all the ansswers from the multiple choice questions by a respondent
 	- Number of columns: 228, each column is an answer for a multiple choice question
