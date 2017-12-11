@@ -24,5 +24,16 @@ Released UnderDatabase: [Open Database](http://opendatacommons.org/licenses/odbl
 
 For more information about Kaggle please see [Terms](https://www.kaggle.com/terms) and [Privacy](https://www.kaggle.com/about/privacy)
 
+## Tool
+I write code in Python by using Jupyter Notebook for my analysis
+
+You can install Python and Jupyter Notebook by downloading **Python 3.6** version from [ANACONDA](https://www.anaconda.com/download/#macos)
+
+The following Python Packages are used to throughout this project:
+* **pandas**
+* **numpy**
+* **matplotlib**
+* **seaborn**
+
 ## Please see the Jupyter Notebook for the Full Report.
 [Click here]()
