@@ -36,4 +36,4 @@ The following Python Packages are used to throughout this project:
 * **seaborn**
 
 ## Please see the Jupyter Notebook for the Full Report.
-[Click here]()
+[Click here](https://github.com/lzctony/data-512-final-project-report/blob/master/data-512-final-project-report.ipynb)
